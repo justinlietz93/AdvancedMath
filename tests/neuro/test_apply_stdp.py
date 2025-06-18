@@ -6,7 +6,7 @@ This script contains tests to verify the functionality of the apply_stdp functio
 
 import unittest
 import numpy as np
-from archive.apply_stdp import apply_stdp
+from src.neuro import apply_stdp
 
 class TestApplySTDP(unittest.TestCase):
     """Test cases for the apply_stdp function."""

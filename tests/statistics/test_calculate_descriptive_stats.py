@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from calculate_descriptive_stats import calculate_descriptive_stats
+from src import calculate_descriptive_stats
 
 class TestCalculateDescriptiveStats(unittest.TestCase):
     """Test cases for the calculate_descriptive_stats function."""

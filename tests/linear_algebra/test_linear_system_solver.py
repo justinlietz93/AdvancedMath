@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from linear_system_solver import linear_system_solver
+from src import linear_system_solver
 
 class TestLinearSystemSolver(unittest.TestCase):
     """Test cases for the linear_system_solver function."""

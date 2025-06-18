@@ -6,7 +6,7 @@ This script contains tests to verify the functionality of the numerical_ode_solv
 
 import unittest
 import numpy as np
-from numerical_ode_solver import numerical_ode_solver
+from src import numerical_ode_solver
 
 class TestNumericalOdeSolver(unittest.TestCase):
     """Test cases for the numerical_ode_solver function."""

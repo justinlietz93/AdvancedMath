@@ -7,7 +7,7 @@ This script contains tests to verify the functionality of the symbolic_different
 import unittest
 import sympy
 from sympy import symbols, sin, cos, exp, log
-from symbolic_differentiation import symbolic_differentiate
+from src import symbolic_differentiate
 
 class TestSymbolicDifferentiation(unittest.TestCase):
     """Test cases for the symbolic_differentiate function."""
