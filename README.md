@@ -7,7 +7,9 @@ This repository contains a collection of Python tools for advanced mathematics, 
 This toolkit is designed to support the exploration and implementation of several novel, high-level mathematical frameworks for building adaptive, emergent intelligence. The key concepts include:
 
 *   **TDA-Dynamical Hybrid for Cluster-Based Reward:** A framework for modeling the complex, multi-level interactions between learning clusters as a system of coupled oscillators whose dynamics are constrained by the topology of the network. This unifies micro-level interactions with macro-level emergent behavior.
+
 *   **Stochastic-Topological Bifurcation Theory:** A method for understanding and predicting large-scale qualitative shifts in the FUM's behavior by modeling the system's state as a persistence diagram and detecting phase transitions as fundamental changes in its topology.
+
 *   **Lyapunov-Game Hybrid for Reward Dynamics:** An elegant solution to the problem of reward hacking that models the different components of the Self-Improvement Engine (SIE) as agents in a potential game, with a global Lyapunov function providing a formal guarantee of stability.
 
 ## Features
