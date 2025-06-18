@@ -1,0 +1,9 @@
+numpy
+scipy
+ripser
+matplotlib
+networkx
+scikit-optimize
+statsmodels
+sympy
+scikit-learn
